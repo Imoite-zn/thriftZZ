@@ -44,6 +44,4 @@ class ZAppTheme {
     bottomSheetTheme: ZBottomSheetTheme.darkBottomSheetTheme,
     checkboxTheme: ZCheckBoxTheme.darkCheckBoxTheme,
   );
-
-  
 }
